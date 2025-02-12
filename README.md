@@ -9,7 +9,7 @@
  Piyobot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
 </p>
 
-<a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="center">
+<a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="+62 838-4778-0045">
   Nomor Whatsapp Bot
 </a>
 
@@ -73,11 +73,11 @@ Edit value yang diperlukan di `settings/setting.json`.
 ```json
 {
     "limitCount": 10,
-    "ownerNumber": "",
-    "memberLimit": 10,
-    "groupLimit": 50,
-    "medialimitCount": "5",
-    "prefix": "/",
+    "ownerNumber": "+62 838-4778-0045",
+    "memberLimit": 10000000000,
+    "groupLimit": 10000000000,
+    "medialimitCount": "1",
+    "prefix": ".",
     "vhtearkey": "Your Apikey In Here",
     "apikeyz": "Your Apikey In Here",
     "lolhuman": "Your Apikey In Here",
@@ -86,7 +86,7 @@ Edit value yang diperlukan di `settings/setting.json`.
 
 ```
 
-`ownerBot`: your WhatsApp number.  
+`+62 838-4778-0045`: your WhatsApp number.  
 
 `prefix`: bot's prefix.  
 
